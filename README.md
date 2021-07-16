@@ -1,5 +1,5 @@
 # Smart-Lock
-In this project, I intend to create a reliable and efficient security system which should also be inexpensive and user friendly. This system is smartly able to classify the two main scenerio of access process i.e. authorized access and unauthorized access. 
+In this project, I intended to create a reliable and efficient security system which should also be inexpensive and user friendly. This system is smartly able to classify the two main scenerio of access process i.e. authorized access and unauthorized access. 
 
 To differentiate between the two I am performing a face recognition algorithm to match the user’s face with the registered face in the system. For this, I am using a neural network and keras based algorithm which detects user’s face and matches it with the pre-registered faces. 
 
